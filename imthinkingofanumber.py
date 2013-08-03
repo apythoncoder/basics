@@ -110,10 +110,3 @@ while restart == 1:
 	
 sys.exit()
 	
-	
-	
-	
-	
-	
-	
-	
